@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-'''登录ehall.ynu.edu.cn'''
+'''login ehall.ynu.edu.cn'''
 
 __author__ = 'Hukuang'
 __copyright__ = 'Copyright 2018, YNUOSA'
