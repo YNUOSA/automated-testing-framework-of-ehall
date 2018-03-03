@@ -8,8 +8,8 @@ __copyright__ = 'Copyright 2018, YNUOSA'
 
 __lisense__ = 'GPL'
 __version__ = '0.0.1'
-__maintainer__ = 'Hukuang'
-__email__ = 'thiswind@gmail.com'
+__maintainer__ = 'Hukuang, Liudonghua'
+__email__ = 'thiswind@gmail.com, liudonghua123@gmail.com'
 __status__ = 'Development'
 
 from selenium import webdriver
